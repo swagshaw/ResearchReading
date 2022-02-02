@@ -12,6 +12,7 @@ Some good reading list:
 
 - https://jeongseob.github.io/readings_mlsys.html
 - https://github.com/HuaizhengZhang/Awesome-System-for-Machine-Learning
+- https://github.com/xialeiliu/Awesome-Incremental-Learning
 
 Reference:
 - https://github.com/ganler/ResearchReading
